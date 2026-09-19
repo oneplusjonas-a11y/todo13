@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- simple grid mark: four cells + connecting accent, cyan on transparent -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M34,34 L48,34 L48,48 L34,48 Z" />
+    <path
+        android:fillColor="#0091FF"
+        android:pathData="M60,34 L74,34 L74,48 L60,48 Z" />
+    <path
+        android:fillColor="#0091FF"
+        android:pathData="M34,60 L48,60 L48,74 L34,74 Z" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M60,60 L74,60 L74,74 L60,74 Z" />
+    <path
+        android:fillColor="#C7D3DA"
+        android:pathData="M52,52 L56,52 L56,56 L52,56 Z" />
+</vector>
